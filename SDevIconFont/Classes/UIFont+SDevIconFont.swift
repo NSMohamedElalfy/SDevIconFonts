@@ -9,7 +9,7 @@
 import UIKit
 
 public enum Fonts {
-    case FontAwesome, Iconic, Ionicon, Octicon
+    case FontAwesome, Iconic, Ionicon, Octicon, Climacons
 }
 
 public extension UIFont{
@@ -32,6 +32,9 @@ public extension UIFont{
             break
         case .Octicon:
             fontName = "octicons"
+            break
+        case .Climacons:
+            fontName = "Climacons-Font"
             break
         default:
             fontName = "FontAwesome"

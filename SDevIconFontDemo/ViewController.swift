@@ -34,6 +34,11 @@ class ViewController: UIViewController {
         label4.text = String.fontIconicIconWithName("dial")
         self.view.addSubview(label4)
         
+        var label5: UILabel = UILabel(frame: CGRectMake(270, 50, 100, 50))
+        label5.font = UIFont.iconFontOfSize(.Climacons, fontSize: 50.0)
+        label5.text = String.fontClimaconsWithName("rain")
+        self.view.addSubview(label5)
+        
         
         // Do any additional setup after loading the view, typically from a nib.
     }

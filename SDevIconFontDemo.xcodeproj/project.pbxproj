@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1DEB47C1B9B2F430035E924 /* Climacons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B1DEB47B1B9B2EB40035E924 /* Climacons.ttf */; };
+		B1DEB47E1B9B303F0035E924 /* String+Climacons.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DEB47D1B9B303F0035E924 /* String+Climacons.swift */; };
 		E8346A251A9B383A00F65B83 /* UIFont+SDevIconFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8346A241A9B383A00F65B83 /* UIFont+SDevIconFont.swift */; };
 		E87954341A9B2B4900A93D00 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87954331A9B2B4900A93D00 /* AppDelegate.swift */; };
 		E87954361A9B2B4900A93D00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87954351A9B2B4900A93D00 /* ViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B1DEB47B1B9B2EB40035E924 /* Climacons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Climacons.ttf; sourceTree = "<group>"; };
+		B1DEB47D1B9B303F0035E924 /* String+Climacons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Climacons.swift"; sourceTree = "<group>"; };
 		E8346A241A9B383A00F65B83 /* UIFont+SDevIconFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIFont+SDevIconFont.swift"; sourceTree = "<group>"; };
 		E879542E1A9B2B4900A93D00 /* SDevIconFontDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SDevIconFontDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E87954321A9B2B4900A93D00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -147,6 +151,7 @@
 				E87954651A9B2F3D00A93D00 /* String+Iconic.swift */,
 				E87954661A9B2F3D00A93D00 /* String+IonIcons.swift */,
 				E87954671A9B2F3D00A93D00 /* String+Octicon.swift */,
+				B1DEB47D1B9B303F0035E924 /* String+Climacons.swift */,
 				E8346A241A9B383A00F65B83 /* UIFont+SDevIconFont.swift */,
 			);
 			path = Classes;
@@ -156,6 +161,7 @@
 			isa = PBXGroup;
 			children = (
 				E87954581A9B2BD200A93D00 /* FontAwesome.ttf */,
+				B1DEB47B1B9B2EB40035E924 /* Climacons.ttf */,
 				E87954591A9B2BD200A93D00 /* ionicons.ttf */,
 				E879545A1A9B2BD200A93D00 /* octicons.ttf */,
 				E879545B1A9B2BD200A93D00 /* open-iconic.ttf */,
@@ -243,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1DEB47C1B9B2F430035E924 /* Climacons.ttf in Resources */,
 				E87954391A9B2B4900A93D00 /* Main.storyboard in Resources */,
 				E879545D1A9B2BD200A93D00 /* ionicons.ttf in Resources */,
 				E879543E1A9B2B4900A93D00 /* LaunchScreen.xib in Resources */,
@@ -271,6 +278,7 @@
 				E87954691A9B2F3D00A93D00 /* String+Iconic.swift in Sources */,
 				E87954681A9B2F3D00A93D00 /* String+FontAwesome.swift in Sources */,
 				E87954361A9B2B4900A93D00 /* ViewController.swift in Sources */,
+				B1DEB47E1B9B303F0035E924 /* String+Climacons.swift in Sources */,
 				E8346A251A9B383A00F65B83 /* UIFont+SDevIconFont.swift in Sources */,
 				E87954341A9B2B4900A93D00 /* AppDelegate.swift in Sources */,
 				E879546A1A9B2F3D00A93D00 /* String+IonIcons.swift in Sources */,

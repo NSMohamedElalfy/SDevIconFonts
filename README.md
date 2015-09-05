@@ -17,7 +17,7 @@ Add the Fonts provided by application key to Info.plist
 ## Fonts
 ````
 public enum Fonts {
-    case FontAwesome, Iconic, Ionicon, Octicon
+    case FontAwesome, Iconic, Ionicon, Octicon, Climacons
 }
 ````
 
@@ -59,3 +59,14 @@ var label3: UILabel = UILabel(frame: CGRectMake(150, 50, 100, 50))
 label3.font = UIFont.iconFontOfSize(.Octicon, fontSize: 50.0)
 label3.text = String.fontOcticonWithName("octoface")
 ````
+
+### Climacons
+
+````
+var label5: UILabel = UILabel(frame: CGRectMake(260, 50, 100, 50))
+label5.font = UIFont.iconFontOfSize(.Climacons, fontSize: 50.0)
+label5.text = String.fontOcticonWithName("cloudy")
+````
+
+by using Climacons font it is not necessary to use any image icons for weather characters 
+thanks to Climacons font : http://adamwhitcroft.com/climacons/
