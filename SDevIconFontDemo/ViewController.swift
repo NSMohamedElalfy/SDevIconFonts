@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         
         var label5: UILabel = UILabel(frame: CGRectMake(270, 50, 100, 50))
         label5.font = UIFont.iconFontOfSize(.Climacons, fontSize: 50.0)
-        label5.text = String.fontClimaconsWithName("rain")
+        label5.text = String.fontClimaconsWithName("rain-sun-alt")
         self.view.addSubview(label5)
         
         

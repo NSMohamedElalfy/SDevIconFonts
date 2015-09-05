@@ -237,7 +237,7 @@ public extension String {
                 "x":"\u{e0db}",
                 "yen":"\u{e0dc}",
                 "zoom-in":"\u{e0dd}",
-                "zoom-out":"\u{e0de}",
+                "zoom-out":"\u{e0de}"
             ]
         }
         

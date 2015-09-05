@@ -747,7 +747,7 @@ public extension String {
                 "wineglass":"\u{f2b9}",
                 "woman":"\u{f25d}",
                 "wrench":"\u{f2ba}",
-                "xbox":"\u{f30c}",
+                "xbox":"\u{f30c}"
             ]
         }
         

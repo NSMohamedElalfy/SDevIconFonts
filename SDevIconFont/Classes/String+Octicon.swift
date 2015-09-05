@@ -193,7 +193,7 @@ public extension String {
                 "unmute":"\u{f0ba}", 
                 "versions":"\u{f064}", 
                 "x":"\u{f081}", 
-                "zap":"\u{26A1}", 
+                "zap":"\u{26A1}"
             ]
         }
         
