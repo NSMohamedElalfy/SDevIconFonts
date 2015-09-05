@@ -65,7 +65,7 @@ label3.text = String.fontOcticonWithName("octoface")
 ````
 var label5: UILabel = UILabel(frame: CGRectMake(260, 50, 100, 50))
 label5.font = UIFont.iconFontOfSize(.Climacons, fontSize: 50.0)
-label5.text = String.fontOcticonWithName("RainSun")
+label5.text = String.fontOcticonWithName("rain-sun")
 ````
 
 by using Climacons font it is not necessary to use any image icons for weather characters 
