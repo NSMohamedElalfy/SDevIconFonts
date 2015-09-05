@@ -1,7 +1,7 @@
 SDevIconFonts
 ==================
 
-# ![Screenshot](https://raw.githubusercontent.com/0x73/SDevIconFonts/master/Screenshots/screenshot0.png)
+# ![Screenshot](https://raw.githubusercontent.com/NSMohamedElalfy/SDevIconFonts/master/Screenshots/screenshot1.png)
 
  
 ## Installation
@@ -12,7 +12,7 @@ pod 'SDevIconFonts'
 
 Add the Fonts provided by application key to Info.plist
 
-# ![Screenshot](https://raw.githubusercontent.com/0x73/SDevIconFonts/master/Screenshots/font.png)
+# ![Screenshot](https://raw.githubusercontent.com/NSMohamedElalfy/SDevIconFonts/master/Screenshots/font1.png)
 
 ## Fonts
 ````
